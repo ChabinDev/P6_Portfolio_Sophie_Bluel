@@ -1,5 +1,6 @@
 # Portfolio-architecte-sophie-bluel
 - Site d'une Architecte d'intérieur.
+- ![Integrateur_Web-OpenclassRoom](./Logo.png) 
 
 ## Projet N°6 du parcours "Intégrateur Web".
 - Mission : Concevoir le site porteFolio d'une architect d'intérieur et de la rendre dynamique en utilisant JAvaScript
